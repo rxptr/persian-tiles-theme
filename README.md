@@ -1,3 +1,3 @@
-# Persian Tiles Theme for Zed
+# Persian Tiles Theme
 
-Editor themes inspired by traditional Persian ceramics.
+A collection of editor themes inspired by traditional Persian ceramics, featuring warm earth tones and jewel-like accent colors. Available for multiple editors.
